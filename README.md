@@ -8,10 +8,10 @@
   cd nodeServer
   ```
 * After that to install your dependencies
-```bash
-npm install
-```
+  ```bash
+  npm install
+  ```
 * then for starting app in the server.
-```bash
-node index.js
-```
+  ```bash
+  node index.js
+  ```
