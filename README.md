@@ -3,11 +3,11 @@
 ## Steps to run the app
 
 * First open code in visual studio code.
-* Open terminal in visual studio code and type 
+* Open terminal in visual studio code and go to nodeServer folder by 
   ```bash
-  npm init
+  cd nodeServer
   ```
-* After that to install your dependencies in node_modules
+* After that to install your dependencies
 ```bash
 npm install
 ```
